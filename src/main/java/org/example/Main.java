@@ -13,7 +13,7 @@ import java.util.List;
 public class Main {
 
     private static JDA jda;
-    private static final String token = "MTA3NzcxMzg4MDAzMTE4Njk5NA.GiCRlB.3R5IfoljH1rKtDZmCtwQy7om4p2-3CZ9NEOLhM";
+    private static final String token = "TOKEN";
     private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("MM-dd-yyyy HH:mm");
 
     public static void main(String[] args) {
