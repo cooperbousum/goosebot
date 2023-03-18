@@ -17,7 +17,7 @@ import java.util.List;
 public class Main {
 
     private static JDA jda;
-    private static final String token = "MTA3NzcxMzg4MDAzMTE4Njk5NA.GkdQ2d.aG9hvMv7zWDRcgtzyl-l6h0e_SWBANxUsz3nOc";
+    private static final String token = "Token";
     private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("MM-dd-yyyy HH:mm");
     private static File sentMessages;
 
